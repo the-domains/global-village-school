@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T07:03:32.379Z'
+datePublished: '2016-01-19T07:03:32.485Z'
 dateModified: '2016-01-19T07:03:29.139Z'
 title: Our Philosophy
 author: []
