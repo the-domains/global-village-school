@@ -1,0 +1,28 @@
+name: GLOBAL VILLAGE SCHOOL
+favicon: null
+layout_spectrum: 0.7917194550391287
+typography_spectrum: 0.27863854239694774
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5443052323535085
+  lightness: 0.0033331585582345724
+  saturation: 0.9353663078509271
+  rhythmicContrast: 0.9030775628052652
+purpose: []
