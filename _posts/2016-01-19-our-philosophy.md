@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T07:01:02.196Z'
-dateModified: '2016-01-19T07:00:52.827Z'
+datePublished: '2016-01-19T07:03:32.379Z'
+dateModified: '2016-01-19T07:03:29.139Z'
 title: Our Philosophy
 author: []
+sourcePath: _posts/2016-01-19-our-philosophy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-19-our-philosophy.md
-published: true
 url: our-philosophy/index.html
 _type: Article
 
