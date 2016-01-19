@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA['It Takes A Global Village to Raise a Global Citizen']]></title>
         <description><![CDATA['It Takes A Global Village to Raise a Global Citizen']]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/global-village-school/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 06:59:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jan 2016 07:00:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/global-village-school/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to the Global Village School]]></title>
+            <description><![CDATA[<article><h1>Welcome to the Global Village School</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4f14331deae4ddb932a17a73dc94cdadb2c8ad9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/global-village-school/welcome-to-the-global-village-school/index.html</link>
+            <guid isPermaLink="false">68ce7971-f763-486a-af3d-804dc4d60721</guid>
+            <pubDate>Tue, 19 Jan 2016 07:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pictures_01]]></title>
-            <description><![CDATA[<article><h1>Pictures_01</h1><p>Some Pictures</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d0f4bab1f3b7145a0b427d61b09af4c0e16c110.jpg"></article>]]></description>
-            <link>undefinedpictures_01/index.html</link>
+            <description><![CDATA[<article><h1>Pictures_01</h1><p>Some Pictures</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61f389711194c95668491942afcbc4d11f4e929f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/global-village-school/pictures_01/index.html</link>
             <guid isPermaLink="false">c9ad3d44-c4d7-4756-9dcf-43ce72eeec2d</guid>
             <pubDate>Tue, 19 Jan 2016 06:59:48 GMT</pubDate>
         </item>
